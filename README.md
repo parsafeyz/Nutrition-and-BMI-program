@@ -44,5 +44,5 @@ This project allows users to:
 
 > You can add screenshots here (use GitHub’s markdown image syntax):
 ```markdown
-![BMI Calculator](screenshots/bmi_calculator.png)
-![Diet Planner](screenshots/diet_planner.png)
+![BMI Calculator](screenshots/Screenshot 2025-07-25 094906.png)
+![Diet Planner](screenshots/Screenshot 2025-07-25 094927.png)
