@@ -39,10 +39,3 @@ This project allows users to:
 | `ttk`           | For tab navigation                         |
 
 ---
-
-## 📷 Screenshots
-
-> You can add screenshots here (use GitHub’s markdown image syntax):
-```markdown
-![BMI Calculator](screenshots/Screenshot 2025-07-25 094906.png)
-![Diet Planner](screenshots/Screenshot 2025-07-25 094927.png)
